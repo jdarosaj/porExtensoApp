@@ -4,7 +4,7 @@
   "description": "App que transforma números inteiros em números por extenso",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node api/test/test.js",
     "start": "nodemon index.js"
   },
   "repository": {
